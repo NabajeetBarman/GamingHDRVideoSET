@@ -1,4 +1,4 @@
-#Welcome to the GamingHDRVideoSET: A 10-bit, UHD-HDR Gaming Videos Dataset for Gaming Video Streaming Applications
+# Welcome to the GamingHDRVideoSET: A 10-bit, UHD-HDR Gaming Videos Dataset for Gaming Video Streaming Applications
 
 ## Introduction
 Gaming video streaming applications such as Twitch.tv have gained much attention in the recent years and are currently responsible for a significant share of video streaming over the internet. Unlike traditional Video on Demand (VoD) streaming services, gaming videos are streamed live and hence need to be encoded in real-time. Such video encoding cannot exploit the optimized encoding settings such as longer presets and multiple passes. Besides, gaming videos, unlike regular, non-gaming videos consist of artificial scenes and hence may be perceived differently by end users. An openly available dataset allows researchers to gain comparable and more generalizable results, e.g., for video quality assessment, Quality of Experience (QoE) prediction modeling, and selection of optimized encoding settings.
