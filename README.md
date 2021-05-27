@@ -13,3 +13,10 @@ Note: The dataset is designed in accordance with the already publicly available 
 ## Download Link: 
 
 Currently GamingHDRVideoSET is available only on a per-request basis. If you are interested, please email Nabajeet Barman (n.barman@kingston.ac.uk, h2o.is.water@gmail.com) to obtain the link to download the dataset.
+
+## YouTube
+
+The HDR source videos are also available on YouTube using the links below:
+30 fps: https://www.youtube.com/playlist?list=PLypUCR-QbqF_yALx6zWyHt3-8wHiepyhU 
+60 fps: https://www.youtube.com/playlist?list=PLypUCR-QbqF9d8BrrsTUeJHrcbvKVPTkV
+
