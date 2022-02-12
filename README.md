@@ -12,7 +12,7 @@ Note: The dataset is designed in accordance with the already publicly available 
 
 ## Download Link: 
 
-Currently GamingHDRVideoSET is available only on a per-request basis. If you are interested, please email Nabajeet Barman (n.barman@kingston.ac.uk, h2o.is.water@gmail.com) to obtain the link to download the dataset.
+Currently GamingHDRVideoSET is available only on a per-request basis. If you are interested, please email Nabajeet Barman (Nabajeet.Barman@kingston.ac.uk, h2o.is.water@gmail.com) to obtain the link to download the dataset.
 
 ## YouTube
 
